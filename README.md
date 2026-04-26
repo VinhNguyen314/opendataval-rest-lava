@@ -16,6 +16,7 @@
 
 <!-- > A unified library for transparent data valuation benchmarks -->
 **NOTE: This is a modified version of opendataval with patches to support causal data valuation (ResT-LAVA).**
+
 Assessing the quality of individual data points is critical for improving model performance and mitigating biases. However, there is no way to systematically benchmark different algorithms.
 
 **OpenDataVal** is an open-source initiative that with a diverse array of datasets/models (image, NLP, and tabular), data valuation algorithms, and evaluation tasks using just a few lines of code.
